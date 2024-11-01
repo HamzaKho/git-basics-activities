@@ -1,4 +1,4 @@
-# Git and GitHub Basics
+# Git and GitHub Basics - Changed by Me
 
 This repository contains the reference materials for engineers who need to learn and practice the basics of version control using Git and GitHub.
 
